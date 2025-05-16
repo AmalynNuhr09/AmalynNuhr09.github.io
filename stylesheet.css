@@ -1,0 +1,28 @@
+body {
+  background-color: lightgrey;
+  font-family: "Arial Black", Helvetica, sans-serif;
+}
+header
+{
+    background-color: aliceblue;
+}
+nav 
+{
+    background-color: brown;
+    color:blueviolet
+    
+}
+
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+footer
+{
+    background-color: aquamarine;
+    align-content: center;
+
+}
